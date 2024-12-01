@@ -16,3 +16,4 @@ Get all required python requirements
 Run website
 `streamlit run app.py`
 
+Note: For those on windows, if it's still not working, try follow these steps from https://docs.streamlit.io/get-started/installation/command-line
