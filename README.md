@@ -10,7 +10,8 @@ Navigate to new folder
 `cd 7712-Website`
 
 Get all required python requirements
-`pip install -r ./requirements.txt`
+`pip install -r ./requirements.txt` or 
+`pip3 install -r ./requirements.txt`
 
 Run website
 `streamlit run app.py`
